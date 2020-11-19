@@ -1,6 +1,33 @@
+## FaceRecognition React App using Clarai Face api.
+
+
+
+It is a React App which is designed to detect the faces in a given Picture.<br>
+Besides that i have used Particles in background to create User interface more interactive.
+
+![face recognition](https://user-images.githubusercontent.com/43737238/99624831-d4d55d80-29e3-11eb-8274-3ce2221e9e84.jpg)
+
+## Deployment Link<br>
+
+https://shiven217.github.io/FaceRecognition/
+
+## Requirements<br>
+NodeJs should be already configured.<br>
+
+## Steps to install and run<br>
+1. Download or clone zip file and unzip it<br>
+2. open cmd and direct it to this downloaded folder<br>
+3. now run command npm install to install all the depencies<br>
+4. now run the command npm start it will run the project<br>
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+
 
 In the project directory, you can run:
 
